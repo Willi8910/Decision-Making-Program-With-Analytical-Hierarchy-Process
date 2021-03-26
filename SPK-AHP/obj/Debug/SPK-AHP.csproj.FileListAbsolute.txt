@@ -1,0 +1,13 @@
+D:\SPK-AHP\SPK-AHP\bin\Debug\SPK-AHP.exe.config
+D:\SPK-AHP\SPK-AHP\bin\Debug\SPK-AHP.exe
+D:\SPK-AHP\SPK-AHP\bin\Debug\SPK-AHP.pdb
+D:\SPK-AHP\SPK-AHP\bin\Debug\MathNet.Numerics.dll
+D:\SPK-AHP\SPK-AHP\bin\Debug\MathNet.Numerics.xml
+D:\SPK-AHP\SPK-AHP\obj\Debug\SPK-AHP.csprojResolveAssemblyReference.cache
+D:\SPK-AHP\SPK-AHP\obj\Debug\SPK_AHP.DataGridExample.resources
+D:\SPK-AHP\SPK-AHP\obj\Debug\SPK_AHP.Properties.Resources.resources
+D:\SPK-AHP\SPK-AHP\obj\Debug\SPK-AHP.csproj.GenerateResource.Cache
+D:\SPK-AHP\SPK-AHP\obj\Debug\SPK-AHP.exe
+D:\SPK-AHP\SPK-AHP\obj\Debug\SPK-AHP.pdb
+D:\SPK-AHP\SPK-AHP\obj\Debug\SPK_AHP.FormHitung.resources
+D:\SPK-AHP\SPK-AHP\obj\Debug\SPK_AHP.FormInput.resources
